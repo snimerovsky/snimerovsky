@@ -37,7 +37,7 @@
 
   <br/>
     <div align="left">
-        <img alt="Sergiy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=snimerovsky&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+        <img alt="Sergiy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=snimerovsky&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true" />
         <img alt="Sergiy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snimerovsky&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
     </div>
 
