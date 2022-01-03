@@ -25,8 +25,6 @@
     <a href="https://www.docker.com" target="_blank"> <img src="https://drive.google.com/uc?id=1IfOa8ZiOrw32rsf7GipkMfUO8_L8RQpr"/> </a>
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://www.php.net/manual/ru/intro-whatis.php" target="_blank"> <img src="https://drive.google.com/uc?id=1FmvVq4sC0LGOnqw-TEF8dpcDaZsvzAb4"/> </a>
-    <a href="https://go.dev" target="_blank"> <img src="https://drive.google.com/uc?id=128ESTP1uGkRTrbPMh5DgvpHDQkO8sxHx"/> </a>
 </p>
 
 <br/>
