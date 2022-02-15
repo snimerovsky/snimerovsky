@@ -1,7 +1,7 @@
 <a href="#" style="text-align: center; display: block"><img width="100%" style="max-width: 400px" height="auto" src="https://drive.google.com/uc?id=1y5m0X_FhXs8MdfAVJkyowjveeVO9icI2"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sergiy</h1>
-<h3 align="center">I'm a Full Stack Developer from Ukraine.</h3>
+<h3 align="center">I'm a Back End Developer</h3>
 
 
 <br/>
